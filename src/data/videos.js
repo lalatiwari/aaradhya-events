@@ -12,7 +12,7 @@ export const videosData = [
   {
     id: 1,
     src: "/videos/1000245850.mp4",
-    poster: "/videos/posters/1000245850.jpg",
+    poster: "/videos/posters/Capture.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=900&auto=format&fit=crop&q=80",
     category: "Government Function",
     title: "Official Program Stage Opening & Lamp Lighting Act"
@@ -20,7 +20,7 @@ export const videosData = [
   {
     id: 2,
     src: "/videos/1000245960.mp4",
-    poster: "/videos/posters/1000245960.jpg",
+    poster: "/videos/posters/Capture1.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&auto=format&fit=crop&q=80",
     category: "Dance Performance",
     title: "Patriotic Group Dance Performance"
@@ -28,7 +28,7 @@ export const videosData = [
   {
     id: 3,
     src: "/videos/1000246028.mp4",
-    poster: "/videos/posters/1000246028.jpg",
+    poster: "/videos/posters/Capture2.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=900&auto=format&fit=crop&q=80",
     category: "Drama",
     title: "Awareness Nukkad Natak at Institutional Arena"
@@ -36,7 +36,7 @@ export const videosData = [
   {
     id: 4,
     src: "/videos/1000246043.mp4",
-    poster: "/videos/posters/1000246043.jpg",
+    poster: "/videos/posters/Capture3.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=900&auto=format&fit=crop&q=80",
     category: "Singing",
     title: "Live Devotional & Cultural Singing Presentation"
@@ -44,7 +44,7 @@ export const videosData = [
   {
     id: 5,
     src: "/videos/1000246052.mp4",
-    poster: "/videos/posters/1000246052.jpg",
+    poster: "/videos/posters/Capture4.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=900&auto=format&fit=crop&q=80",
     category: "Cultural Program",
     title: "Folk Dance Troupe Performance"
@@ -52,7 +52,7 @@ export const videosData = [
   {
     id: 6,
     src: "/videos/1000246094.mp4",
-    poster: "/videos/posters/1000246094.jpg",
+    poster: "/videos/posters/Capture5.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=900&auto=format&fit=crop&q=80",
     category: "Stage Performance",
     title: "Departmental Award Ceremony Stage Execution"
@@ -60,7 +60,7 @@ export const videosData = [
   {
     id: 7,
     src: "/videos/1000246111.mp4",
-    poster: "/videos/posters/1000246111.jpg",
+    poster: "/videos/posters/Capture6.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=900&auto=format&fit=crop&q=80",
     category: "Government Function",
     title: "Foundation Day Cultural Sequence"
@@ -68,15 +68,15 @@ export const videosData = [
   {
     id: 8,
     src: "/videos/1000246561.mp4",
-    poster: "/videos/posters/1000246561.jpg",
+    poster: "/videos/posters/Capture7.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=900&auto=format&fit=crop&q=80",
     category: "Drama",
     title: "Thematic Historic Drama Presentation"
   },
   {
     id: 9,
-    src: "/videos/1000246561 (1).mp4",
-    poster: "/videos/posters/1000246561 (1).jpg",
+    src: encodeURI("/videos/1000246561 (1).mp4"),
+    poster: "/videos/posters/Capture8.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?w=900&auto=format&fit=crop&q=80",
     category: "Singing",
     title: "Patriotic Chorus Performance by Team Singers"
@@ -84,7 +84,7 @@ export const videosData = [
   {
     id: 10,
     src: "/videos/1000246584.mp4",
-    poster: "/videos/posters/1000246584.jpg",
+    poster: "/videos/posters/Capture9.PNG",
     fallbackPoster: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=900&auto=format&fit=crop&q=80",
     category: "Cultural Program",
     title: "Full Cultural Night Highlights"
